@@ -13,7 +13,6 @@ if (array_length(hit) > 0) {
     dir_x = 0;
     dir_y = 0;
 }
-
 }
 
 
